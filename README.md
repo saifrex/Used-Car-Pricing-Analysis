@@ -7,7 +7,7 @@ In this application, you will explore a dataset from kaggle. The original datase
   ### Input Dateset: https://github.com/saifrex/Used-Car-Pricing-Analysis/blob/main/data.zip
 
 #### CRoss Industry Standard Process for Data Mining (CRISP-DM)
-<img width="374" alt="crisp" src="../assets/crisp.png?raw=true">
+<img width="374" alt="crisp" src="..blob/assets/crisp.png?raw=true">
 
 
 ## Deliverables
@@ -31,24 +31,24 @@ The deliverables for this analysis includes:
 
 ##### Original Data set - 
 
-![Original_dataset](https://github.com/saifrex/Used-Car-Pricing-Analysis/assets/data_cleanup_required.png?raw=true)
+![Original_dataset](../assets/data_cleanup_required.png?raw=true)
 
 
 ##### After cleaning up and filling in other data our final data set was reduced - 
 
-![Dataset_after_cleanup](https://github.com/saifrex/Used-Car-Pricing-Analysis/assets/data_cleanup_outcome.png?raw=true)
+![Dataset_after_cleanup](../assets/data_cleanup_outcome.png?raw=true)
 
 
 ##### Used Cars Prices -
-![Car_Prices_Histogram](https://github.com/saifrex/Used-Car-Pricing-Analysis/assets/used_car_prices.png?raw=true)
+![Car_Prices_Histogram](../assets/used_car_prices.png?raw=true)
 
 #### Models tried, evaluated, scoring, Feature Selection and Mean Squared errors summary capture
-![Modeling_Residual_plot](https://github.com/saifrex/Used-Car-Pricing-Analysis/assets/residual_prediction_plot.png?raw=true)
+![Modeling_Residual_plot](../assets/residual_prediction_plot.png?raw=true)
 
-![Modeling_Residual_plot_hist](https://github.com/saifrex/Used-Car-Pricing-Analysis/assets/residual_prediction_histogram.png?raw=true)
+![Modeling_Residual_plot_hist](../assets/residual_prediction_histogram.png?raw=true)
 
 #### Prediction result & trend from the chosen model
-![Choosen_model_prediction_vs_test_data_sample_for_the_client](https://github.com/saifrex/Used-Car-Pricing-Analysis/assets/model_prediction.png?raw=true)
+![Choosen_model_prediction_vs_test_data_sample_for_the_client](../assets/model_prediction.png?raw=true)
 
 ## Conclusions
 
