@@ -29,17 +29,17 @@ The deliverables for this analysis includes:
 - VIN & Id is a unique value for each car and can therefore be dropped
 - Price & Odometer columns have few values as 0
 
-Original Data set - 
+##### Original Data set - 
 
 ![Original_dataset](https://github.com/saifrex/Used-Car-Pricing-Analysis/assets/data_cleanup_required.png?raw=true)
 
 
-After cleaning up and filling in other data our final data set was reduced - 
+##### After cleaning up and filling in other data our final data set was reduced - 
 
 ![Dataset_after_cleanup](https://github.com/saifrex/Used-Car-Pricing-Analysis/assets/data_cleanup_outcome.png?raw=true)
 
 
-Used Cars Prices -
+##### Used Cars Prices -
 ![Car_Prices_Histogram](https://github.com/saifrex/Used-Car-Pricing-Analysis/assets/used_car_prices.png?raw=true)
 
 #### Models tried, evaluated, scoring, Feature Selection and Mean Squared errors summary capture
