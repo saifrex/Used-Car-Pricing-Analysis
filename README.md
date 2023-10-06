@@ -7,7 +7,7 @@ In this application, you will explore a dataset from kaggle. The original datase
   ### Input Dateset: https://github.com/saifrex/Used-Car-Pricing-Analysis/blob/main/data.zip
 
 #### CRoss Industry Standard Process for Data Mining (CRISP-DM)
-<img width="374" alt="crisp" src="..blob/assets/crisp.png?raw=true">
+<img width="374" alt="crisp" src="../assets/crisp.png?raw=true">
 
 
 ## Deliverables
